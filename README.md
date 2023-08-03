@@ -1,5 +1,7 @@
 ### Hi there, I'm Liz!
 
+![banner](./banner.png)
+
 - 👩🏽‍💻 I’m currently a tech director for a media company
 - 😄 Pronouns: she/they
 
